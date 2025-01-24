@@ -19,12 +19,3 @@ This project focuses on analyzing a dataset of movies to uncover key insights re
   
 ## Dataset Information
 The dataset used in this project is a collection of movie details, including attributes like movie title, budget, earnings, score, release date, and production company. The goal is to understand how various features of a movie (budget, genre, etc.) correlate with its gross earnings and how companies perform financially.
-
-## Installation and Setup
-
-To get started, clone the repository and install the required libraries using pip:
-
-```bash
-git clone https://github.com/yourusername/movie-data-analysis.git
-cd movie-data-analysis
-pip install -r requirements.txt
